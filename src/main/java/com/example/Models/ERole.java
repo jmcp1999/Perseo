@@ -1,5 +1,6 @@
 package com.example.Models;
 
-public class ERole {
-
+public enum ERole {
+    ADMIN,
+    USER
 }
